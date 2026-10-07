@@ -76,5 +76,5 @@ This project helped me get more comfortable with building DAX measures, picking 
 
 Feel free to reach out if you have feedback or suggestions.
 
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
+- LinkedIn: *https://www.linkedin.com/in/pramitde28/*
+- Email: *depramit28@gmail.com*
